@@ -18,7 +18,7 @@ Info from the source data book:
 =====================================
 ## The transformations
 
-`run_analysis.R` works through 3 steps:
+`run_analysis.R` works through 5 steps:
 
 1. Loads and merges the training and testing data sets to create a single combined data set.
 

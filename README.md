@@ -9,7 +9,7 @@ The purpose of this project is to collect, work with, and clean a data set, ther
 
 ### The scource data info
 
-The source data is collected from the accelerometers from the Samsung Galaxy S smartphone.
+The data being used is collected from the accelerometers from the Samsung Galaxy S smartphone.
 
 Here are the data for the project: 
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
@@ -22,7 +22,7 @@ For more information about the original dataset please refer to following link:
 
 ### Files contained in this repo
 
-1. `run_analysis.R` works through 3 steps:
+1. `run_analysis.R` works through 5 steps:
 
     1). Loads and merges the training and testing data sets to create a single combined data set.
     
